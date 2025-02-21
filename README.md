@@ -1,5 +1,5 @@
 Ses exercices sont realisées par :
-- HAMCHAMCHAOUI Badreddine
+- HAMCHAOUI Badreddine
 - MEDJAHED Ikram
 
 Pour le module Programation Réseau.
